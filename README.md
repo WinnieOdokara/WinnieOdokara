@@ -2,7 +2,7 @@
 **Computer Science student at UNC Charlotte**  
 Passionate about cybersecurity and cloud technologies, aiming to become a penetration tester. Certified in Security+ and AWS Cloud Practitioner.  
 
-<img align="right" src="banner.png" width="400"/>
+<img align="right" src="banner.png" width="300"/>
 
 - 🌱 Learning penetration testing, Linux, and secure coding practices  
 - 🛠️ Looking to collaborate on cybersecurity and open-source security tools  
