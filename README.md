@@ -13,18 +13,18 @@ Passionate about cybersecurity and cloud technologies, aiming to become a penetr
 ---
 
 ## Tech Stack 🧰  
-
-<img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img alt="Kibana" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" />
-<img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img alt="Kali Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
-          
-<img alt="Wireshark" height="45" src="wireshark.png" />
-<img alt="Nmap" height="45" src="nmap.png" />
-<img alt="Snort" height="45" src="snort.png" />
+<p>
+    <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="C" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="Kibana" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" />
+    <img alt="AWS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img alt="Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img alt="Kali Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
+    <img alt="Wireshark" height="35" src="wireshark.png" />
+    <img alt="Nmap" height="35" src="nmap.png" />
+    <img alt="Snort" height="35" src="snort.png" />
+</p>
 
 ---
 
